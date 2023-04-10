@@ -1,0 +1,4 @@
+country_id;country_code;lvl1;lvl2;lvl3
+1;IND;2_state;1_city;
+2;ID;4_province;1_city;
+3;TH;3_region;4_province;1_city

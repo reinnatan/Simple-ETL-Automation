@@ -1,0 +1,10 @@
+store_id;store_code;store_name;country_code;street_name;pin_code;lvl1_geog;lvl2_goeg;lvl3_geog;;;
+"<unique,
+auto-generated>";"<unique, auto-generated 
+country_code+store_id>";<direct input from csv>;"<lookup based on csv input
+on country_name>";<direct input from csv>;<direct input from csv>;<direct input from csv>;<direct input from csv>;<direct input from csv>;;;
+1;IND1;7-11-store1;IND;thomas street;600098;Tamil Nadu;Chennai;;;;
+2;ID2;Test Store Jakarta;ID;Jl Durian 19, Sumatera Utara;20235;Medan;Sumatera Utara;;;;
+3;IND3;Testme Store 1;IND; Jl Ciledug Raya 88, Dki Jakarta;15156;Jakarta;Dki Jakarta;;These 3 rows correspond to the Sample csv input (Rest are pre-existing data);;
+4;ID4;Testme Store 2;ID;5531/21, Sh No 7, Harphool Singh Building, Sadar Thana Rd, Chandni Chowk;110006;Delhi;Delhi;;;;
+5;TH5;Testme Store 3;TH;85/13 Soi Kamnanmaen Ekachai Road Jomthong;10150;Bangkok;Bangkok;;;;
